@@ -1,0 +1,43 @@
+\begin{thebibliography}{1}
+
+\bibitem{NeuralODE}
+Ricky T., Q. Chen, Yulia Rubanova, Jesse Bettencourt.
+\newblock{\em Neural Ordinary Differential Equations}.
+\newblock University of Toronto, Vector Institute, 2018.
+
+\bibitem{OptNet_diff_opt}
+Brandon Amos and J Zico Kolter.
+\newblock {\em OptNet: Differentiable optimization as a layer in neural networks.}
+\newblock International Conference on Machine Learning, pages 136--175, 2017.
+
+\bibitem{arbitr_deep_ResNN}
+Bo Chang, Lili Meng, Eldad Haber, Lars Ruthotto, David Begert, and Elliot Holtham.
+\newblock {\em Reversible architectures for arbitrarily deep residual neural networks.}
+\newblock arXiv preprint arXiv:1709.03698.
+
+\bibitem{RK_method}
+Ascher, Uri M.; Petzold, Linda R.
+\newblock {\em Computer Methods for Ordinary Differential Equations and Differential-Algebraic Equations}.
+\newblock Society for Industrial and Applied Mathematics, 1998.
+
+\bibitem{PontryaginPrinciples}
+Lev Semenovich Pontryagin, EF Mishchenko, VG Boltyanskii, and RV Gamkrelidze.
+\newblock{\em The mathematical theory of optimal processes},
+\newblock 1962.
+
+\bibitem{modecollapse}
+Hoang Thanh-Tung, Truyen Tran.
+\newblock {\em On Catastrophic Forgetting and Mode Collapse in Generative Adversarial Networks}.
+\newblock Applied Artificial Intelligence Institute Deakin University, 2018
+
+\bibitem{normalizing_flows}
+Danilo Jimenez Rezende and Shakir Mohamed.
+\newblock{\em Variational inference with normalizing flows}.
+\newblock  arXiv preprint arXiv:1505.05770, 2015.
+
+\bibitem{CasADi}
+Joel A E Andersson and Joris Gillis and Greg Horn and James B Rawlings and Moritz Diehl.
+\newblock {\em CasADi -- A software framework for nonlinear optimization and optimal control}.
+\newblock Mathematical Programming Computation, 11(1):1--36, 2019.
+
+\end{thebibliography}

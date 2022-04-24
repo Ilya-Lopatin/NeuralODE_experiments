@@ -1,0 +1,14 @@
+\begin{thebibliography}{1}
+
+\bibitem{NeuralODE}
+Ricky T., Q. Chen, Yulia Rubanova, Jesse Bettencourt.
+\newblock{\em Neural Ordinary Differential Equations}.
+\newblock University of Toronto, Vector Institute, 2018.
+
+\bibitem{author_git}
+https://github.com/rtqichen/torchdiffeq
+
+\bibitem{my_git}
+https://github.com/Ilya-Lopatin/NeuralODE\_experiments my github repository with the experiments 
+
+\end{thebibliography}
