@@ -1,0 +1,22 @@
+\begin{thebibliography}{1}
+
+\bibitem{NeuralODE}
+Ricky T., Q. Chen, Yulia Rubanova, Jesse Bettencourt.
+\newblock{\em Neural Ordinary Differential Equations}.
+\newblock University of Toronto, Vector Institute, 2018.
+
+\bibitem{author_git}
+\url{https://github.com/rtqichen/torchdiffeq}
+
+\bibitem{P_CNF}
+Guandao Yang, Xun Huang, Zekun Hao, Ming-Yu Liu, Serge Belongie, Bharath Hariharan.
+\newblock{\em PointFlow: 3D Point Cloud Generation with Continuous Normalizing Flows}.
+\newblock Preprint arxiv.org, 2019.
+
+\bibitem{habr_git}
+\url{https://github.com/msurtsukov/neural-ode}
+
+\bibitem{my_git}
+\url{https://github.com/Ilya-Lopatin/NeuralODE_experiments} - my repository.
+
+\end{thebibliography}
